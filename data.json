@@ -1,4 +1,7 @@
 {
-    "input":"test nejtestovatejsi",
-    "add":5
+    "input_encrypt":"Dvacet Jedna Tisic Osm Set",
+    "add_encrypt":1,
+
+    "input_decrypt":"ewbdfu kfeob ujtjd ptn tfu",
+    "add_decrypt":"1"
 }
